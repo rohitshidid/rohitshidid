@@ -25,6 +25,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rohitshidid/rohitshidid/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/rohitshidid/rohitshidid/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitshidid&show_icons=true&locale=en&layout=compact" alt="rohitshidid" /></p>
