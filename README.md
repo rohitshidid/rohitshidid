@@ -40,11 +40,11 @@ I build production ML pipelines and the systems that keep them honest — honest
 
 | Metric | Count |
 |--------|-------|
-| Total Stars Earned | `—` |
-| Total Commits (All Time) | `—` |
-| Total Commits (Last Year) | `—` |
-| Total PRs Authored | `—` |
-| Total PRs Merged | `—` |
+| Total Stars Earned | `3` |
+| Total Commits (All Time) | `271` |
+| Total Commits (Last Year) | `108` |
+| Total PRs Authored | `24` |
+| Total PRs Merged | `24` |
 <!-- GITHUB-STATS:END -->
 
 ---
@@ -152,11 +152,11 @@ A lightweight Go CLI that replaces five separate diagnostics (`lsof`, `ss`, `net
 
 | Metric | Count |
 |--------|-------|
-| Total Stars Earned | `—` |
-| Total Commits (All Time) | `—` |
-| Total Commits (Last Year) | `—` |
-| Total PRs Authored | `—` |
-| Total PRs Merged | `—` |
+| Total Stars Earned | `3` |
+| Total Commits (All Time) | `271` |
+| Total Commits (Last Year) | `108` |
+| Total PRs Authored | `24` |
+| Total PRs Merged | `24` |
 <!-- GITHUB-STATS:END -->
 
 ---
