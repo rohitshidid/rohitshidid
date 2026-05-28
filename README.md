@@ -118,11 +118,11 @@ A lightweight Go CLI that replaces five separate diagnostics (`lsof`, `ss`, `net
 
 | Metric | Count |
 |--------|-------|
-| Total Stars Earned | `—` |
-| Total Commits (All Time) | `—` |
-| Total Commits (Last Year) | `—` |
-| Total PRs Authored | `—` |
-| Total PRs Merged | `—` |
+| Total Stars Earned | `2` |
+| Total Commits (All Time) | `134` |
+| Total Commits (Last Year) | `29` |
+| Total PRs Authored | `3` |
+| Total PRs Merged | `3` |
 <!-- GITHUB-STATS:END -->
 
 ---
