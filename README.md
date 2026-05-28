@@ -54,11 +54,13 @@ Repo: https://github.com/rohitshidid/portmap
 ## GitHub Stats
 
 <!-- GITHUB-STATS:START -->
+### Rohit's · GitHub Stats
+
 | Metric | Count |
 |--------|-------|
 | Total Stars Earned | `3` |
-| Total Commits (All Time) | `271` |
-| Total Commits (Last Year) | `108` |
+| Total Commits (All Time) | `273` |
+| Total Commits (Last Year) | `110` |
 | Total PRs Authored | `24` |
 | Total PRs Merged | `24` |
 <!-- GITHUB-STATS:END -->
