@@ -134,6 +134,33 @@ A lightweight Go CLI that replaces five separate diagnostics (`lsof`, `ss`, `net
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitshidid&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitshidid&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=rohitshidid&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohitshidid&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+<!-- GITHUB-STATS:START -->
+### Rohit's · GitHub Stats
+
+| Metric | Count |
+|--------|-------|
+| Total Stars Earned | `—` |
+| Total Commits (All Time) | `—` |
+| Total Commits (Last Year) | `—` |
+| Total PRs Authored | `—` |
+| Total PRs Merged | `—` |
+<!-- GITHUB-STATS:END -->
+
+---
+
 ### Education
 
 **New York University** — MS, Computer Engineering · _Expected May 2027_
