@@ -15,6 +15,40 @@ I build production ML pipelines and the systems that keep them honest — honest
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!--
+  The two cards below render from a github-readme-stats server.
+  The PUBLIC server (github-readme-stats.vercel.app) is rate-limited and
+  often returns a broken image. Deploy your own free copy (see README setup
+  notes) and replace `github-readme-stats.vercel.app` with `YOUR-APP.vercel.app`
+  in the two URLs below so they render every time.
+-->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitshidid&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitshidid&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="Top languages" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=rohitshidid&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+</div>
+
+<!-- GITHUB-STATS:START -->
+### Rohit's · GitHub Stats
+
+| Metric | Count |
+|--------|-------|
+| Total Stars Earned | `—` |
+| Total Commits (All Time) | `—` |
+| Total Commits (Last Year) | `—` |
+| Total PRs Authored | `—` |
+| Total PRs Merged | `—` |
+<!-- GITHUB-STATS:END -->
+
+---
+
 ```yaml
 Rohit Shidid:
   role:        MS Computer Engineering @ NYU (Expected May 2027)
@@ -97,33 +131,6 @@ Ensemble ML for EEG independent-component analysis, improving brain-signal class
 **[portmap](https://github.com/rohitshidid/portmap) — Go CLI on Homebrew**
 A lightweight Go CLI that replaces five separate diagnostics (`lsof`, `ss`, `netstat`, `docker ps`, `/etc/services`), surfacing listening ports, owning processes, Docker mappings, and known service labels in one clean table or JSON output.
 `Go` `Homebrew` `networking` `CLI`
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitshidid&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitshidid&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-
-<img height="165" src="https://streak-stats.demolab.com/?user=rohitshidid&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohitshidid&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
-<!-- GITHUB-STATS:START -->
-### Rohit's · GitHub Stats
-
-| Metric | Count |
-|--------|-------|
-| Total Stars Earned | `—` |
-| Total Commits (All Time) | `—` |
-| Total Commits (Last Year) | `—` |
-| Total PRs Authored | `—` |
-| Total PRs Merged | `—` |
-<!-- GITHUB-STATS:END -->
 
 ---
 
