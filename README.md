@@ -56,11 +56,11 @@ Repo: https://github.com/rohitshidid/portmap
 <!-- GITHUB-STATS:START -->
 | Metric | Count |
 |--------|-------|
-| Total Stars Earned | `—` |
-| Total Commits (All Time) | `—` |
-| Total Commits (Last Year) | `—` |
-| Total PRs Authored | `—` |
-| Total PRs Merged | `—` |
+| Total Stars Earned | `3` |
+| Total Commits (All Time) | `271` |
+| Total Commits (Last Year) | `108` |
+| Total PRs Authored | `24` |
+| Total PRs Merged | `24` |
 <!-- GITHUB-STATS:END -->
 
 ## Education
