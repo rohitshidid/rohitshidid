@@ -53,6 +53,7 @@ Repo: https://github.com/rohitshidid/portmap
 
 ### bak - A Lightweight CLI for Per-File Versioning 
 bak is a fast, lightweight command-line utility written in Go that provides local, per-file version control without the overhead of initializing full git repositories. Designed to prevent workspace clutter (like file.txt.bak, file.txt.old), bak securely stores timestamped, zstd-compressed snapshots of individual files in a centralized local directory (~/.bak). It features built-in unified diffing (both hunk-style and full-file), interactive restorations, and automatic history pruning. Whether you are quickly iterating on a config file or drafting a document, bak offers a seamless way to track file states on the fly.
+Repo: https://github.com/rohitshidid/bak
 
 ## GitHub Stats
 
