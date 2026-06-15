@@ -62,8 +62,8 @@ bak is a fast, lightweight command-line utility written in Go that provides loca
 | Metric | Count |
 |--------|-------|
 | Total Stars Earned | `3` |
-| Total Commits (All Time) | `353` |
-| Total Commits (Last Year) | `169` |
+| Total Commits (All Time) | `358` |
+| Total Commits (Last Year) | `174` |
 | Total PRs Authored | `28` |
 | Total PRs Merged | `26` |
 <!-- GITHUB-STATS:END -->
