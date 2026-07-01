@@ -65,8 +65,8 @@ Repo: https://github.com/rohitshidid/bak
 | Total Stars Earned | `3` |
 | Total Commits (All Time) | `377` |
 | Total Commits (Last Year) | `190` |
-| Total PRs Authored | `32` |
-| Total PRs Merged | `26` |
+| Total PRs Authored | `36` |
+| Total PRs Merged | `29` |
 <!-- GITHUB-STATS:END -->
 
 ## Education
