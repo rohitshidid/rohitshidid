@@ -45,6 +45,15 @@ Champion-challenger promotion with a quality-gate layer that blocks registry pro
 PySpark ETL over 500K+ GDELT news events per run into a Hive-style Parquet warehouse; 7 models tracked across classification, regression, anomaly detection, and forecasting. 92% F1 on event-conflict classification and MAE 0.73 on 0-100 severity prediction, with per-run MLOps metric logging.
 - **Stack**: PySpark 4.0, Spark MLlib, PyTorch, Plotly Dash, Parquet
 - **Repo**: https://github.com/rohitshidid/gdelt-pipeline
+  
+### portmap — Go CLI on Homebrew
+A lightweight Go CLI that replaces five separate diagnostics (lsof, ss, netstat, docker ps, /etc/services), surfacing listening ports, owning processes, Docker mappings, and known service labels in one clean table or JSON output.
+- **Stack**: Go, Homebrew, networking, CLI
+- **Repo**: https://github.com/rohitshidid/portmap
+
+### bak - A Lightweight CLI for Per-File Versioning 
+bak is a fast, lightweight command-line utility written in Go that provides local, per-file version control without the overhead of initializing full git repositories. Designed to prevent workspace clutter (like file.txt.bak, file.txt.old), bak securely stores timestamped, zstd-compressed snapshots of individual files in a centralized local directory (~/.bak). It features built-in unified diffing (both hunk-style and full-file), interactive restorations, and automatic history pruning. Whether you are quickly iterating on a config file or drafting a document, bak offers a seamless way to track file states on the fly.
+- **Repo**: https://github.com/rohitshidid/bak
 
 ### Parkinson's Motor Symptom Classifier — Embedded AI
 On-device, four-class real-time motor-symptom classification: 6-axis IMU over I2C at 52 Hz, Hamming windowing, and a 256-point real FFT via ARM CMSIS-DSP, with no cloud dependency. Custom GATT service streams over BLE with sub-second latency, plus automatic gyroscope calibration and moving-average drift suppression.
@@ -55,15 +64,6 @@ On-device, four-class real-time motor-symptom classification: 6-axis IMU over I2
 Ensemble ML for EEG independent-component analysis, improving brain-signal classification accuracy for cognitive research.
 - **Stack**: Python, scikit-learn, ensemble methods, signal processing
 - **Published, DOI**: https://doi.org/10.5281/zenodo.13909560
-
-### portmap — Go CLI on Homebrew
-A lightweight Go CLI that replaces five separate diagnostics (lsof, ss, netstat, docker ps, /etc/services), surfacing listening ports, owning processes, Docker mappings, and known service labels in one clean table or JSON output.
-- **Stack**: Go, Homebrew, networking, CLI
-- **Repo**: https://github.com/rohitshidid/portmap
-
-### bak - A Lightweight CLI for Per-File Versioning 
-bak is a fast, lightweight command-line utility written in Go that provides local, per-file version control without the overhead of initializing full git repositories. Designed to prevent workspace clutter (like file.txt.bak, file.txt.old), bak securely stores timestamped, zstd-compressed snapshots of individual files in a centralized local directory (~/.bak). It features built-in unified diffing (both hunk-style and full-file), interactive restorations, and automatic history pruning. Whether you are quickly iterating on a config file or drafting a document, bak offers a seamless way to track file states on the fly.
-- **Repo**: https://github.com/rohitshidid/bak
 
 ## GitHub Stats
 
