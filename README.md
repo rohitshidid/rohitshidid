@@ -26,6 +26,14 @@ I build production ML pipelines and the systems that keep them honest: honest ev
 
 ## Featured Projects
 
+### Self-Healing RAG — Failure-Detecting Retrieval-Augmented Generation
+Built a RAG (Retrieval-Augmented Generation) system that detects and recovers from its own failures instead of returning bad answers silently — the failure-handling layer most RAG projects skip.
+The pipeline verifies its work at two checkpoints: retrieval quality (embedding similarity + a query–passage cross-encoder for semantic relevance) and answer groundedness (per-sentence NLI entailment against retrieved evidence, to catch hallucinations). When a check fails, it automatically applies the matching repair — LLM query rewriting, HyDE, claim-targeted re-retrieval, or context expansion — capped to guarantee termination. A live "healing log" makes the system catching and fixing itself visible in real time.
+Results on a 20-question eval vs. a standard RAG baseline: fully-grounded answer rate 69% → 81%, ungrounded responses down 40%, with honest refusals on out-of-corpus questions.
+
+- **Stack**: Python, FAISS, sentence-transformers (MiniLM), cross-encoder NLI (DeBERTa-v3) + relevance (ms-marco), Groq (Llama-3.3-70B), Streamlit. Fully local verification (no API cost), free permanent hosting on Hugging Face Spaces. 8 unit tests covering every failure→repair route.
+- **Repo**: https://github.com/rohitshidid/Self-Healing-RAG-Failure-Detecting-Retrieval-Augmented-Generation
+
 ### Bandageboard | Full-Stack Healthcare Billing Pipeline
 A full-stack Next.js application that automates Medicare Part B wound-care billing triage. It features a robust data ingestion pipeline that pulls from a mock EHR API, extracts clinical data from unstructured notes using LLMs and Regex, and presents routing decisions in a secure, biller-facing dashboard.
 - **Stack**: Next.js 14, React, Tailwind CSS, Vercel AI SDK, Anthropic, Vercel Postgres, Drizzle ORM, TypeScript
