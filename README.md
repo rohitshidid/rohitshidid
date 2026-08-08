@@ -81,10 +81,10 @@ Ensemble ML for EEG independent-component analysis, improving brain-signal class
 | Metric | Count |
 |--------|-------|
 | Total Stars Earned | `4` |
-| Total Commits (All Time) | `551` |
-| Total Commits (Last Year) | `364` |
-| Total PRs Authored | `108` |
-| Total PRs Merged | `92` |
+| Total Commits (All Time) | `561` |
+| Total Commits (Last Year) | `374` |
+| Total PRs Authored | `110` |
+| Total PRs Merged | `97` |
 <!-- GITHUB-STATS:END -->
 
 ## Education
