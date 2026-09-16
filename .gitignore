@@ -1,0 +1,18 @@
+# Source material — resume, LinkedIn exports, link sheets. Local only.
+Material/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor / OS noise
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+
+# Python (scripts/)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
