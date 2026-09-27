@@ -42,6 +42,17 @@ A RAG pipeline that catches and recovers from its own failures instead of return
 
 ---
 
+### PromptLint — Cost-Aware LLM Router & Prompt Linter
+[**Live Demo**](https://promptlint.onrender.com) · [**Repo**](https://github.com/rohitshidid/Promptlint)
+
+An API that sends each prompt to the right model at the right price, and checks the prompt before any paid call is made. A custom decision model classifies prompt difficulty and task type in **~200ms**, then routes to Claude, GPT, Gemini, or any OpenAI-compatible endpoint based on task fit and per-token price, falling back to another provider automatically on failure. Before dispatch, a linter scores the prompt 0–100, predicts first-try success probability, and runs 11 rule-based quality checks with ranked fix suggestions.
+
+**Results:** **89% lower cost** on a 480-prompt benchmark versus always routing to the most expensive model. Production-ready backend with self-serve accounts, hashed API-key auth, per-key rate limits and quotas, Fernet-encrypted storage of users' provider keys, and a usage dashboard tracking spend, model mix, and savings. Covered by **181 automated tests** plus offline routing evaluations in GitHub Actions CI; deployed on Render with Neon Postgres at zero infrastructure cost.
+
+`Python` `FastAPI` `async SQLAlchemy` `Alembic` `PostgreSQL (Neon)` `Claude / OpenAI / Gemini APIs` `GitHub Actions` `Render`
+
+---
+
 ### Research Copilot — Agentic RAG over Academic Literature
 [**Repo**](https://github.com/rohitshidid/Research-Copilot)
 
