@@ -168,7 +168,7 @@ Diagnosed and fixed a full-stack bug in the `/todo` slash command: a `note_type`
 |--------|-------|
 | Total Stars Earned | `4` |
 | Total Commits (All Time) | `952` |
-| Total Commits (Last Year) | `762` |
+| Total Commits (Last Year) | `760` |
 | Total PRs Authored | `115` |
 | Total PRs Merged | `100` |
 <!-- GITHUB-STATS:END -->
